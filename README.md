@@ -40,6 +40,12 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Darshan9922&label=Profile%20views&color=0e75b6&style=flat)
+
+
+[![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Darshan9922&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darshan9922&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
