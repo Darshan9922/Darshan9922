@@ -1,3 +1,7 @@
+
+![Header](https://raw.githubusercontent.com/Darshan9922/Darshan9922/main/darshan_github_banner.gif)
+
+
 # 👋 Hi, I'm Darshan Patil  
 
 💻 **Data Analytics & AI Enthusiast** | 📊 **Turning Data into Insights** | 🎓 Final Year CS Student  
@@ -5,7 +9,6 @@
 🚀 Strong in **Data Analytics, BI Dashboards, and Machine Learning**  
 🌱 Currently working on Real Estate Analytics + AI Price Prediction  
 💡 Passionate about building **business-focused projects** that use data to drive decisions  
-⚡ Fun fact: I also run *Amrut Food and Tea Company* 🫖  
 
 ---
 
