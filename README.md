@@ -1,35 +1,31 @@
 # 👋 Hi, I'm Darshan Patil  
 
-💻 **Professional Software Developer** | 🎓 Final Year Computer Science Student  
+💻 **Data Analytics & AI Enthusiast** | 📊 **Turning Data into Insights** | 🎓 Final Year CS Student  
 
-🚀 Passionate about **Web Development, AI/ML, and Business-driven Projects**  
-🌱 Exploring Real Estate Tech, Data Science, and Smart Automation  
-
----
-
-## 🔭 Current Work
-- 🏡 **RealNest** – Real Estate MERN project with AI Price Prediction & Chatbot  
-- 📊 **PowerBI Dashboards** – Superstore & Pizza Sales Analytics  
-- 📚 **PayGuru** – Python-based Game Learning App  
-- 📱 **MIT ADT Android App** – University project  
-- 🔐 **Digital Certificates Portal** – SIH problem statement  
+🚀 Strong in **Data Analytics, BI Dashboards, and Machine Learning**  
+🌱 Currently working on Real Estate Analytics + AI Price Prediction  
+💡 Passionate about building **business-focused projects** that use data to drive decisions  
+⚡ Fun fact: I also run *Amrut Food and Tea Company* 🫖  
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-patil)  
-📩 **Email:** darshanpatil1704@gmail.com  
+## 🔭 My Data Analytics Work
+- 📊 **Power BI Dashboards** –  
+  - Superstore Sales Analysis (profit, trends, KPIs)  
+  - Pizza Sales Analysis (customer insights, order trends)  
+- 🏡 **RealNest** – Real Estate MERN Project with **AI Price Prediction** & **Data-driven Scheme Eligibility Checker**  
+- 📚 **PayGuru** – Game-based learning app with analytics  
+- 🧾 **Digital Certificates Portal** – Process monitoring + real-time data insights (SIH Problem Statement)  
 
 ---
 
-## 🛠 Tech Stack
-**Languages:**  Python, Java, JavaScript, PHP  
-**Frontend:** HTML, CSS, React.js  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, MySQL  
-**AI/ML:** Random Forest, XGBoost, Scikit-learn, TensorFlow  
-**Data Tools:** Power BI, Excel  
-
+## 🛠 Tech & Tools
+**Analytics & BI:** Power BI, Excel, SQL, 
+**Data Science/ML:** Python, Pandas, NumPy, Scikit-learn, Random Forest, XGBoost, TensorFlow  
+**Databases:** MongoDB, MySQL  
+**Programming:** Python, Java, C++, JavaScript  
+**Web Stack:** HTML, CSS, React.js, Node.js, Express.js  
+**Other Tools:** Git, VS Code, Postman, Google Maps API  
 
 ---
 
@@ -39,12 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan9922&theme=tokyonight&hide_border=false&layout=compact)  
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=Darshan9922&label=Profile%20views&color=0e75b6&style=flat)
-
-
-[![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Darshan9922&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darshan9922&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
